@@ -1,10 +1,9 @@
 <h1>Movix Single Page</h1>
 
 
-Bu proje, Movix adlı bir film veritabanı uygulamasını oluşturmak için gelişmiş ön uç teknolojilerini kullanmayı hedeflemektedir. React, Redux ve SCSS gibi birinci sınıf teknolojilerle bu kurs, katılımcılara modern web geliştirme becerilerini kazandırmayı amaçlamaktadır.
+Bu proje, Movix adlı bir film veritabanı uygulamasını oluşturmak için gelişmiş ön uç teknolojilerini kullanmaştır.
 
-Kurs İçeriği
-React ve JSX Temelleri
+<h1>Kullanılan teknolojiler</h1>
 
 JSX sözdizimi
 Bileşen oluşturma
@@ -31,17 +30,6 @@ SCSS'nin temelleri
 Bileşenlere özel stil uygulama
 İleri Seviye JavaScript Mantığı
 
-React uygulamasında daha karmaşık mantıklar oluşturma
-Asenkron işlemler ve API entegrasyonu
-Uygulama Geliştirmesi ve Github
 
-Git ve Github kullanımı
-Uygulamayı GitHub üzerinde yönetme
-Nasıl Başvurabilirim?
-Bu kursa başvurmak için kayıt formu linki üzerinden başvuruda bulunabilirsiniz.
 
-Gereksinimler
-Temel HTML, CSS ve JavaScript bilgisi
-Node.js ve npm kurulu olmalıdır
-İleri düzeyde React, Redux ve SCSS bilgisi isteğe bağlıdır.
 
